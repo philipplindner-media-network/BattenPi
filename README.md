@@ -1,6 +1,6 @@
 # BattenPi – Smart-Home Dashboard für ioBroker
 
-![BattenPi Logo](assets/pi_SHS.png)
+![BattenPi Logo](pi_SHS.png)
 
 **Ein PHP-basiertes Dashboard zur Steuerung und Protokollierung von Smarthome-Geräten über die ioBroker Simple-API**
 
